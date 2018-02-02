@@ -1,6 +1,6 @@
 from pybeacon.scanner import BeaconScanner
 from logging import FileHandler
-#it's Hussein
+#it's Hussein I need your help please
 # Set beacon log path
 beaconpath = '/home/pi/pybeacon_records/beacon_records'
 
